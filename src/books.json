@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Onyx Storm (Deluxe Limited Edition) (The Empyrean, 3)",
+    "author": "Rebecca Yarros",
+    "price": 23.09,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/9101MLPcFTL._AC_UL254_SR254,254_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Little Corner: Coloring Book for Adults and Teens, Super Cute Designs of Cozy, Hygge Spaces for Relaxation",
+    "author": "Coco Wyo",
+    "price": 7.99,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71QManc1wDL._AC_UL254_SR254,254_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Girl Moments: Coloring Book for Adults and Teens Featuring Cute Cozy Daily Activities for Relaxation",
+    "author": "Coco Wyo",
+    "price": 7.99,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/71omJ7z12kL._AC_UL254_SR254,254_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Forgotten Home Apothecary: 250 Powerful Remedies at Your Fingertips",
+    "author": "Dr. Nicole Apelian",
+    "price": 37.0,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91-E86oM2IL._AC_UL254_SR254,254_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Stress Relief: Coloring Book for Adults and Kids, Bold and Easy, Simple and Big Designs for Relaxation Featuring Animals, Landscape, Flowers, Patterns, Cute Things And Many More",
+    "author": "Coco Wyo",
+    "price": 7.99,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/61jccG4IyuL._AC_UL254_SR254,254_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About",
+    "author": "Mel Robbins",
+    "price": 7.99,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/91I1KDnK1kL._AC_UL254_SR254,254_.jpg"
+  }
+]

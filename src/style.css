@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 10px;
+}
+.books-search {
+  padding: 2em;
+  padding-bottom: 0;
+}
+.books-search > input {
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: 2px solid #ccc;
+  width: 100%;
+}
+
+.books-grid {
+  display: flex;
+  flex-flow: column;
+  gap: 2em;
+  padding: 2em;
+}
+
+.book {
+  border: 2px solid #ccc;
+  padding: 1em;
+  border-radius: 0.5em;
+  display: flex;
+  flex-flow: column;
+  transition: 200ms ease-in-out;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+}
+.book:hover {
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.book-info {
+  text-align: center;
+}
+.book-info > p {
+  font-size: 1rem;
+  color: gray;
+}
+.book-info > h3 {
+  font-size: 1.25rem;
+}
+
+@media screen and (min-width: 500px) {
+  .books-grid {
+    justify-content: center;
+    flex-flow: row wrap;
+  }
+  .book {
+    flex: 1;
+    gap: 0.5em;
+    flex-grow: 0;
+  }
+}
+@media screen and (min-width: 768px) {
+}
